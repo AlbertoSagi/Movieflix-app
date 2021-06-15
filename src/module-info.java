@@ -1,0 +1,3 @@
+module movieflix {
+	requires junit;
+}
